@@ -29,7 +29,7 @@ list_of_files =[
     "setup.py",
     "Dockerfile",
     ".dockerignore",
-    "demo.py",
+    "main.py",
     "config/model.yaml",
     "config/schema.yaml",
  
